@@ -49,7 +49,7 @@ impl Framebuffer {
             }
         }
         d.draw_text(
-            "Cubo por raytracing",
+            "Cubo con textura de cuarzo | Flechas: girar",
             14,
             12,
             20,
